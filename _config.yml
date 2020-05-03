@@ -23,7 +23,7 @@ name                     : "Your Name"
 description              : "An amazing website."
 url                      : "https://davekims2.github.io/"
 baseurl                  : ""
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : DavekimS2/DavekimS2.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -63,7 +63,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : vsuKWUl2pxtLLEkYny1kj8_BI5Hyye6kDUKrKQA2FtM
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "김영관"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : /assets/images/20200502_234733_010.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "System software Engineer."
   location         : "Seoul"
   email            :
   links:
