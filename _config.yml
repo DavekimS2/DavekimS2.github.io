@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "David's world"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "김영관"
 description              : "An amazing website."
 url                      : "https://davekims2.github.io/"
 baseurl                  : ""

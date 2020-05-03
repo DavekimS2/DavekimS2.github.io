@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://davekims2.github.io/sitemap.xml
